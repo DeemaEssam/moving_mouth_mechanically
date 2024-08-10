@@ -4,6 +4,8 @@ I designed a 3D model for moving a mouth using two servo motors. motors are atta
 
 <img width="754" alt="1" src="https://github.com/user-attachments/assets/764faa0e-db26-4af7-a3bb-03ea15cdeaa2">
 
+<img width="754" alt="1" src="https://github.com/user-attachments/assets/093cc0cd-88e4-473c-ba1f-10181945a007">
+
 ## Acknowledgements
 *************************************************************
 https://youtu.be/lY83q531gHk?si=sohoEbRAOjdtN15o
